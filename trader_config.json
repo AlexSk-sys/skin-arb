@@ -1,0 +1,16 @@
+{
+  "mode": "paper",
+  "max_trade_usd": 25.0,
+  "max_total_usd": 100.0,
+  "min_margin": 0.1,
+  "max_price": 25.0,
+  "min_volume": 20,
+  "max_positions": 5,
+  "fees": {
+    "waxpeer": 0.05,
+    "market_csgo": 0.05,
+    "csfloat": 0.02
+  },
+  "undercut": 0.02,
+  "include_csfloat": false
+}

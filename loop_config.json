@@ -1,0 +1,16 @@
+{
+  "capital": 10.0,
+  "min_margin": 0.08,
+  "max_margin": 0.35,
+  "min_sell_vol": 15,
+  "max_positions": 3,
+  "min_trade": 1.0,
+  "max_trade": 5.0,
+  "hold_hours": 72,
+  "mode": "margin",
+  "execution": "paper",
+  "max_queue": 5,
+  "auto_buy_sources": [
+    "mcs"
+  ]
+}
